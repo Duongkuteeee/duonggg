@@ -5,11 +5,11 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương
     Mình quay lai nhaaaaaa`,
-    btnIntro: 'okkk',
+    btnIntro: 'hihi',
     title: 'Phải chăng bbi đồng ý rồi chăng 😙',
     desc: 'Trả Lời thật Lòng đó nha không có LƯƠN đâu đó ',
     btnYes: 'Dạ <33',
-    btnNo: 'Đéo-.-',
+    btnNo: 'Đéo',
     question:'Nếu em yêu anh thì chúng mình quay lại nhaa <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'ukii ',
