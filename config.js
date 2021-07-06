@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Pe oiiiii!',
+    introTitle: 'bbi oii!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
-    Mình quay lai nhaaaaaa`,
+    Mình quay lại nha`,
     btnIntro: 'hihi',
-    title: 'Phải chăng bbi đồng ý rồi chăng 😙',
-    desc: 'Trả Lời thật Lòng đó nha không có LƯƠN đâu đó ',
+    title: 'Phải chăng bii đã đồng ý rồi chăng 😙',
+    desc: 'Trả lời lòng đó nha không được lươn đâu đó ',
     btnYes: 'Dạ <33',
     btnNo: 'Đéo',
-    question:'Nếu em yêu anh thì chúng mình quay lại nhaa <3',
+    question:'Nếu em yêu anh thì chúng mình quay lại nha <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'ukii ',
-    mess: 'hjhj Anh biết mà 🥰 love you bbi
-    messDesc: 'tối nay nhớ nói iu anh nhaa',
+    reply: 'ukii <33333333',
+    mess: 'hjhj anh biết mà 🥰. love you bbi 😘😘',
+    messDesc: 'Tối nay nhớ nói iu anh nhâ.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://duong' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
