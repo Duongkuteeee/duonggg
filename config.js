@@ -5,7 +5,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Mình quay lại nha`,
     btnIntro: 'hihi',
-    title: 'Phải chăng bii đã đồng ý rồi chăng 😙',
+    title: 'Phải chăng bbi đã đồng ý rồi chăng 😙',
     desc: 'Trả lời lòng đó nha không được lươn đâu đó ',
     btnYes: 'Dạ <33',
     btnNo: 'Đéo',
